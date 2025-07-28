@@ -26,12 +26,6 @@
 
   <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
         <h3>🌐 Let's Connect and Grow Together!</h3>
-        <p>
-            <a href="https://www.linkedin.com/in/julio-ccatb/" target="_blank" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
-            </a>
-            
-        </p>
         
   <h3>✨ Fun Facts</h3>
         <ul>
@@ -41,15 +35,23 @@
             <li>In my free time, I explore the beauty of nature and capture it through my photography on Instagram.</li>
         </ul>
         
-  <h3>🧑‍💻 About Me</h3>
-        <p>
-            I'm a passionate software developer with a strong background in cloud computing, game development, and full-stack web development. 
-            I have a keen interest in solving complex problems and building scalable solutions. When I'm not coding, you can find me engaged 
-            in physical activities like swimming and judo, or planning my next adventure. 
-        </p>
-        <p>
-            My journey in tech has led me to work with various cutting-edge technologies and collaborate with amazing teams across different 
-            projects. I’m always eager to learn new things and share my knowledge with the community through my YouTube.
-        </p>
+  <h3>👋 About Me</h3>
+
+<p>
+  I'm a passionate software developer focused on building <strong>enterprise-scale software</strong> and <strong>web applications</strong>. 
+  I love solving complex problems and turning ideas into reliable, high-impact solutions.
+</p>
+
+<p>
+  When I'm not coding, you'll probably find me spending time with friends or planning my next adventure ✈️🌄 — I believe that balance fuels creativity.
+</p>
+
+<hr />
+
+<p>
+  Over the years, I’ve had the opportunity to work with <strong>modern web frameworks and scalable architectures</strong>, 
+  collaborating with amazing teams across diverse projects. I’m always eager to <strong>learn</strong>, <strong>build</strong>, and <strong>share knowledge</strong> with the community.
+</p>
+
     </div>
 </div>
