@@ -23,16 +23,14 @@
         <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/officialcodevoyage/officialcodevoyage/blob/main/github-metrics.svg">
     </div>
 
-
   <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
         <h3>🌐 Let's Connect and Grow Together!</h3>
         
   <h3>✨ Fun Facts</h3>
         <ul>
-            <li>I love Hackathons, Swimming and Tennis.</li>
-            <li>I’m on a journey to build a big house in Alaska!</li>
-            <li>I enjoy creating content for my YouTube channel, where I share coding tutorials and project walkthroughs.</li>
-            <li>In my free time, I explore the beauty of nature and capture it through my photography on Instagram.</li>
+            <li>In my free time, I like to see new things.</li>
+            <li>I love being with friends and play.</li>
+            <li>I’m saving to build my own cabain!</li>
         </ul>
         
   <h3>👋 About Me</h3>
@@ -46,12 +44,4 @@
   When I'm not coding, you'll probably find me spending time with friends or planning my next adventure ✈️🌄 — I believe that balance fuels creativity.
 </p>
 
-<hr />
-
-<p>
-  Over the years, I’ve had the opportunity to work with <strong>modern web frameworks and scalable architectures</strong>, 
-  collaborating with amazing teams across diverse projects. I’m always eager to <strong>learn</strong>, <strong>build</strong>, and <strong>share knowledge</strong> with the community.
-</p>
-
-    </div>
 </div>
