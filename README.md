@@ -1,6 +1,6 @@
 [![Alt text](kwork_PavloBondarenko_12.jpg)](https://pavlobondarenko.net)
 
-<h1 align="center">Hi, I'm Pavlo Bondarenko! 👋 </h1>
+<h1 align="center">Hi, I'm Julio Castaño! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pavlo_bondarenko_visitor_badge_simple&left_color=royalblue&right_color=black"  />
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
@@ -27,7 +27,7 @@
   <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
         <h3>🌐 Let's Connect and Grow Together!</h3>
         <p>
-            <a href="https://www.linkedin.com/in/mrbondarenko/" target="_blank" style="text-decoration: none;">
+            <a href="https://www.linkedin.com/in/julio-ccatb/" target="_blank" style="text-decoration: none;">
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
             </a>
             </a>
