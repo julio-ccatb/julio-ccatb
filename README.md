@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,cpp,cmake,docker,git,github,js,linux,postgres,py,dotnet,unreal,pycharm" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,prisma,shadcn,cmake,docker,git,github,js,linux,postgres,py,dotnet" alt="Skills and tools"/>
   </a>
 </p>
 
@@ -30,13 +30,7 @@
             <a href="https://www.linkedin.com/in/julio-ccatb/" target="_blank" style="text-decoration: none;">
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
             </a>
-            </a>
-            <a href="https://www.youtube.com/@OfficialCodeVoyage" target="_blank" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" alt="YouTube">
-            </a>
-            <a href="https://www.instagram.com/pasha____bond/" target="_blank" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram">
-            </a>
+            
         </p>
         
   <h3>✨ Fun Facts</h3>
