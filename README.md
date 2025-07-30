@@ -5,13 +5,6 @@
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,prisma,shadcn,cmake,docker,git,github,js,linux,postgres,py,dotnet" alt="Skills and tools"/>
-  </a>
-</p>
-
-
 ![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
 
 
